@@ -4,7 +4,7 @@
       "id": 1,
       "title": "Platform Update 2.1",
       "date": "Today",
-      "image": "https://via.placeholder.com/350x150/2d1a1a/ffffff?text=Platform+Update",
+      "image": "https://images.steamusercontent.com/ugc/536268710576889521/7F5BE41E93AC5392489C8B74F7C30DB00C45D537/",
       "preview": "Enhanced certificate validation and improved upload speeds. This major update brings significant performance improvements to the signing process...",
       "content": "Enhanced certificate validation and improved upload speeds. This major update brings significant performance improvements to the signing process, with faster certificate verification and streamlined upload workflows. We've also added better error handling and improved the overall user experience with more intuitive feedback messages. Additionally, we've optimized memory usage and reduced CPU overhead during the signing process."
     },
