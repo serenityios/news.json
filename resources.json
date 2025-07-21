@@ -1,0 +1,124 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "name": "AdBlock Pro",
+      "description": "Advanced ad blocking library for iOS",
+      "type": "mod",
+      "downloadUrl": "https://example.com/downloads/adblock-pro.dylib",
+      "size": "2.4 MB"
+    },
+    {
+      "id": 2,
+      "name": "Custom DNS Provider",
+      "description": "Alternative DNS configuration tool",
+      "type": "dns",
+      "downloadUrl": "https://example.com/downloads/dns-tool.zip",
+      "size": "1.8 MB"
+    },
+    {
+      "id": 3,
+      "name": "iOS Runtime Headers",
+      "description": "Complete iOS 17 runtime headers collection",
+      "type": "code",
+      "downloadUrl": "https://github.com/example/ios17-headers/archive/main.zip",
+      "size": "15.2 MB"
+    },
+    {
+      "id": 4,
+      "name": "Modded Instagram",
+      "description": "Instagram with additional features and customizations",
+      "type": "ipa",
+      "downloadUrl": "https://example.com/downloads/instagram-mod.ipa",
+      "size": "89.5 MB"
+    },
+    {
+      "id": 5,
+      "name": "Signing Certificate Tool",
+      "description": "Certificate management utility for developers",
+      "type": "other",
+      "downloadUrl": "https://example.com/downloads/cert-tool.pkg",
+      "size": "5.1 MB"
+    },
+    {
+      "id": 6,
+      "name": "Bypass Framework",
+      "description": "Jailbreak detection bypass library",
+      "type": "mod",
+      "downloadUrl": "https://example.com/downloads/bypass.framework.zip",
+      "size": "3.2 MB"
+    },
+    {
+      "id": 7,
+      "name": "DoH DNS Config",
+      "description": "DNS-over-HTTPS configuration profiles",
+      "type": "dns",
+      "downloadUrl": "https://example.com/downloads/doh-profiles.zip",
+      "size": "245 KB"
+    },
+    {
+      "id": 8,
+      "name": "Theos SDK",
+      "description": "Complete Theos development environment",
+      "type": "code",
+      "downloadUrl": "https://github.com/theos/theos/archive/master.zip",
+      "size": "42.1 MB"
+    },
+    {
+      "id": 9,
+      "name": "YouTube Premium",
+      "description": "YouTube with premium features unlocked",
+      "type": "ipa",
+      "downloadUrl": "https://example.com/downloads/youtube-premium.ipa",
+      "size": "156.8 MB"
+    },
+    {
+      "id": 10,
+      "name": "Provisioning Profile Manager",
+      "description": "Manage and install provisioning profiles",
+      "type": "other",
+      "downloadUrl": "https://example.com/downloads/profile-manager.dmg",
+      "size": "8.7 MB"
+    },
+    {
+      "id": 11,
+      "name": "UI Enhancement Tweak",
+      "description": "Customizable UI modifications for iOS",
+      "type": "mod",
+      "downloadUrl": "https://example.com/downloads/ui-tweak.deb",
+      "size": "1.9 MB"
+    },
+    {
+      "id": 12,
+      "name": "Secure DNS Bundle",
+      "description": "Collection of secure DNS configurations",
+      "type": "dns",
+      "downloadUrl": "https://example.com/downloads/secure-dns.zip",
+      "size": "892 KB"
+    },
+    {
+      "id": 13,
+      "name": "iOS Reverse Engineering Tools",
+      "description": "Essential tools for iOS app analysis",
+      "type": "code",
+      "downloadUrl": "https://example.com/downloads/reverse-tools.tar.gz",
+      "size": "78.3 MB"
+    },
+    {
+      "id": 14,
+      "name": "Spotify Premium",
+      "description": "Spotify with premium features enabled",
+      "type": "ipa",
+      "downloadUrl": "https://example.com/downloads/spotify-premium.ipa",
+      "size": "67.2 MB"
+    },
+    {
+      "id": 15,
+      "name": "Code Signing Assistant",
+      "description": "Automated code signing workflow tool",
+      "type": "other",
+      "downloadUrl": "https://example.com/downloads/signing-assistant.app.zip",
+      "size": "12.4 MB"
+    }
+  ]
+}
