@@ -1,0 +1,44 @@
+{
+  "news": [
+    {
+      "id": 1,
+      "title": "Platform Update 2.1",
+      "date": "Today",
+      "image": "https://via.placeholder.com/350x150/2d1a1a/ffffff?text=Platform+Update",
+      "preview": "Enhanced certificate validation and improved upload speeds. This major update brings significant performance improvements to the signing process...",
+      "content": "Enhanced certificate validation and improved upload speeds. This major update brings significant performance improvements to the signing process, with faster certificate verification and streamlined upload workflows. We've also added better error handling and improved the overall user experience with more intuitive feedback messages. Additionally, we've optimized memory usage and reduced CPU overhead during the signing process."
+    },
+    {
+      "id": 2,
+      "title": "New Certificate Sources",
+      "date": "2 days ago",
+      "image": "https://via.placeholder.com/350x150/4a1f1f/ffffff?text=New+Features",
+      "preview": "Added support for additional certificate providers including enterprise solutions and third-party integrations...",
+      "content": "Added support for additional certificate providers including enterprise solutions and third-party integrations. This expansion allows users to connect with more certificate authorities and streamlines the certificate management process across different platforms and services. The new providers include Apple Developer Enterprise, custom certificate authorities, and improved support for wildcard certificates."
+    },
+    {
+      "id": 3,
+      "title": "UI Improvements",
+      "date": "1 week ago",
+      "image": null,
+      "preview": "Redesigned interface for better user experience with modern styling and improved navigation...",
+      "content": "Redesigned interface for better user experience with modern styling and improved navigation. The new design features better visual hierarchy, cleaner layouts, and more intuitive user flows. We've also improved accessibility and added dark mode support across the platform. The interface now supports gesture navigation and has been optimized for both iOS and Android devices."
+    },
+    {
+      "id": 4,
+      "title": "Security Enhancements",
+      "date": "2 weeks ago",
+      "image": "https://via.placeholder.com/350x150/1a0808/ffffff?text=Security+Update",
+      "preview": "Implemented advanced security measures and encryption protocols to protect user data and certificates...",
+      "content": "Implemented advanced security measures and encryption protocols to protect user data and certificates. All certificate data is now encrypted at rest and in transit using AES-256 encryption. We've also added two-factor authentication support and improved audit logging for enterprise users. Regular security audits are now performed to ensure the highest level of protection for your signing certificates."
+    },
+    {
+      "id": 5,
+      "title": "Performance Optimizations",
+      "date": "3 weeks ago",
+      "image": null,
+      "preview": "Significant improvements to app signing speed and resource usage across all supported platforms...",
+      "content": "Significant improvements to app signing speed and resource usage across all supported platforms. We've reduced signing time by up to 40% through optimized algorithms and better resource management. Memory usage has been decreased by 25%, and the app now runs more smoothly on older devices. These optimizations particularly benefit users working with large IPA files or multiple simultaneous signing operations."
+    }
+  ]
+}
